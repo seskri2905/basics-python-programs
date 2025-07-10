@@ -13,3 +13,5 @@ b = input("Second Number: ")
 res = int(a) + int(b)
 
 print(res)
+
+# Using Functiions
